@@ -46,31 +46,32 @@ I am prepared to make a significant impact in both the tech and fitness industri
 
 ## Projects
 
-### Project 1: AI Chatbot
-- **Description:** Developed an AI chatbot using Python and NLP techniques.
+### Project 1:
+- **Description:** Insert here.
 - **Technologies:** Python, TensorFlow, NLP
 - **Repository:** [AI-Chatbot](https://github.com/yourusername/AI-Chatbot)
 
-### Project 2: Personal Fitness Tracker
-- **Description:** Created a web application to track fitness activities and progress.
+### Project 2:
+- **Description:** Insert here.
 - **Technologies:** JavaScript, Node.js, Express, MongoDB
 - **Repository:** [Fitness-Tracker](https://github.com/yourusername/Fitness-Tracker)
 
-### Project 3: Portfolio Website
-- **Description:** Designed and developed a personal portfolio website to showcase projects and skills.
+### Project 3:
+- **Description:** Insert here.
 - **Technologies:** HTML, CSS, JavaScript
 - **Repository:** [Portfolio-Website](https://github.com/yourusername/Portfolio-Website)
 
 ## Education
 - **Bachelor of Science in Computer Science**
   - University of East London
-  - 2024
+  - Graduated with a First Class Honors 
 
 ## Certifications
 - **Level 3 Personal Trainer Certification** (In Progress)
 
 ## Contact Me
 
-- **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/blake-pattemore/))
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/blake-pattemore/)
+- **Instagram:** Blake.s.p
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
